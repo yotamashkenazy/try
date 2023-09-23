@@ -1,4 +1,4 @@
-https://github.com/yotamashkenazy/try.git
+#https://github.com/yotamashkenazy/try.git
 def optimized_derivative(t, states_n, planets, r_max, m_p, m_b=1.98e30):
     G = 6.6743e-11  # gravitational constant [m^3 kg^-1 s^-1]
     c = 299792458   # speed of light [m/s]
